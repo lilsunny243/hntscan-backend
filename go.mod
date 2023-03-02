@@ -7,7 +7,7 @@ require (
 	github.com/bradfitz/gomemcache v0.0.0-20220106215444-fb4bf637b56d
 	github.com/cznic/mathutil v0.0.0-20181122101859-297441e03548
 	github.com/joho/godotenv v1.4.0
-	github.com/labstack/echo/v4 v4.6.3
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/lib/pq v1.10.4
 	github.com/uber/h3-go/v3 v3.7.1
 )
